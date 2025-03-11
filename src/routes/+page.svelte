@@ -4,8 +4,8 @@
   import axios from 'axios';
 
   // Image paths for mouth animation
-  let mouthClosedImage = 'kissa.png';
-  let mouthOpenImage = 'kissaauki.png';
+  let mouthClosedImage = 'ilvessuuton.png';
+  let mouthOpenImage = 'ilvessuu.png';
 
   // Current image for mouth animation
   let currentImage = writable(mouthClosedImage);
